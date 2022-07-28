@@ -1,0 +1,25 @@
+.cover1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.592), rgba(0, 0, 0, 0.581)), url("images/cover/cover-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 690px;
+    background-position: center;
+
+}
+
+.cover2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.491), rgba(0, 0, 0, 0.519)), url("images/cover/cover-2.jpg");
+    background-size: cover;
+    min-height: 690px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.cover3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.548), rgba(0, 0, 0, 0.508)), url("images/cover/cover-3.jpg");
+    background-size: cover;
+    min-height: 690px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
